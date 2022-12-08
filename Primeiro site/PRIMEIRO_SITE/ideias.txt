@@ -1,0 +1,6 @@
+CORES DO SITE: Cores escurar: PRETO, CINZA, MARROM, AZUL ESCURO;
+
+1- CABEÇALHO: Nome do site, explorar, contato e etc;
+2- CONTEÚDO PRINCIPAL: Conteúdo do site, textos maiores e explicativos;
+3- SEÇÃO AUXILIAR:
+
