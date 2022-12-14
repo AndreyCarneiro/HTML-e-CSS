@@ -14,3 +14,6 @@ nav { min-height: 90px; margin-bottom: 0 !important;  }
 .link_menu a{ color:#9bbd46 !important; padding:10px;  }
 .link_menu a:hover{ background-color:#9bbd46 !important; color:#111 !important; }
 .center { text-align: center }
+
+#sobre {margin: 50px 0;  }
+#sobre p { text-align: justify; color:#999; font-size: 18px; line-height: 1.8; padding-top:20px;}

@@ -19,6 +19,10 @@ switch ($pagina) {
 	case 'blast':
 	include 'app/views/blast.php';
 	break;
+
+	case 'sobre':
+	include 'app/views/sobre.php';
+	break;
 	
 	default:
 	include 'app/views/home.php';

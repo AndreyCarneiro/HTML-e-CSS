@@ -68,7 +68,7 @@
                         <div class="caption"> 
                             <h3>Sobre</h3> 
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet risus ligula. Mauris pretium magna nec porttitor vulputate.</p> 
-                            <p><a href="#" class="btn btn-primary" role="button">Botão</a> 
+                            <p><a href="?i=sobre" class="btn btn-primary" role="button">Saiba mais</a> 
                             </div> 
                         </div> 
                     </div> 

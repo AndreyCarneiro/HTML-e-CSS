@@ -14,7 +14,7 @@
 			<div class="container">
 				<div class="navbar-header">
 					<!-- LOGO -->
-					<a href="#" alt="betabase - home" title="Home"><img id="logo" src="app/img/logo.svg"></a>
+					<a href="?i=home" alt="betabase - home" title="Home"><img id="logo" src="app/img/logo.svg"></a>
 					<!-- SMARTPHONE -->
 					<button type="button" style="margin-top:25px" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu_lista" aria-expanded="false">
 						<span style="background-color:#9bbd46" class="icon-bar"></span>
@@ -24,10 +24,10 @@
 				</div>
 				<div class="collapse navbar-collapse" id="menu_lista">
 					<ul class="nav navbar-nav navbar-right">
-						<li class="link_menu"><a href="#">Sobre</a></li>
+						<li class="link_menu"><a href="?i=sobre">Sobre</a></li>
 						<li class="link_menu"><a href="#">Listar</a></li>
 						<li class="link_menu"><a href="#">Projetos</a></li>
-						<li class="link_menu"><a href="#">Ajuda</a></li>
+						<li class="link_menu"><a href="#" data-toggle="modal" data-target="#help">Ajuda</a>/li>
 					</ul>
 				</div>
 
